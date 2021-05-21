@@ -1,0 +1,19 @@
+li {
+    font-style: italic;
+    display:inline-table;
+    float:inline-start;
+    padding: 10px 10px;
+  }
+
+h2 {
+    font-style: italic;
+    color: rgb(54, 3, 7);
+}
+
+h3 {
+     font-style: oblique;
+}
+
+h4 {
+    color: darkred;
+}
